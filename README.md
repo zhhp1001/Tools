@@ -23,3 +23,9 @@ Enter key to select the item,
 `CTRL-C` / `CTRL-G` / `ESC` to exit
 On multi-select mode (`-m`), `TAB` and `Shift-TAB` to mark multiple items
 Mouse: scroll, click, double-click; shift-click and shift-scroll on multi-select mode
+
+# Online Tools
+
+## Regex
+
+https://regexr.com/
